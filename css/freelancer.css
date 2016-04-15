@@ -4,6 +4,12 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
+.schedule {
+    padding-bottom: 40px;
+}
+
+
 body {
     overflow-x: hidden;
 }
